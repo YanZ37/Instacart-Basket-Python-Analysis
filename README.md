@@ -59,8 +59,6 @@ These datasets were merged, cleaned, and analyzed to identify purchasing trends,
 The project is organized into folders for clarity and reproducibility:
 
 - **Project Management:** Contains the original *Project Brief* for reference.  
-- **Data:** Divided into `Original` and `Prepared` subfolders for raw and cleaned data.  
-  *(Note: The `Prepared` folder is excluded from upload due to file size constraints.)*  
 - **Scripts:** Includes all Python code used throughout the analysis.  
 - **Analysis:** Contains visualizations and exploratory insights used in the final report.  
 - **Sent to Client:** Includes the *Final Report* in Excel format along with relevant data.
