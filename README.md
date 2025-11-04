@@ -2,6 +2,7 @@
 
 ## 📘 Overview & Objective
 As an analyst at **Instacart**, an online grocery delivery platform, the goal of this project was to analyze sales data and uncover patterns in customer behavior.  
+
 Although Instacart already has strong sales, stakeholders wanted deeper insights into **sales patterns**, **customer segmentation**, and **marketing opportunities**.  
 
 The analysis aimed to identify distinct **customer profiles** and provide strategies to tailor marketing efforts accordingly.  
